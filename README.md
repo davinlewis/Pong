@@ -1,22 +1,19 @@
-Compiling the code
+# ***Compiling the code***
 
-Updating the code will require a new build. If you do not already have unity installed see the 
-instructions below.
-1) Download the .zip file from BBLearn.
+In order to play this game you will have to compile the program through Unity using these instructions.
+1) Click "<> Code" and click "Download ZIP"
 2) Extract the contents of the zipped file into a new file.
-3) Open Unity now or download it at .
-4) Follow the installation guide all the way through the download.
+3) Open Unity now or download it with the directions below.
+4) Ensure Unity is fully installed.
 5) Select Add>Add project from disk option in the top right corner.
 6) Select the file where the zip files were extracted to.
 7) This should open the Unity editor for this game of Pong.
 8) In the top left corner select file -> Build & Run.
-9) Unity will automatically compile everything into the necessary files and create one 
-convenient Pong application file that you can click on whenever you would like to play. 
-Note Unity creates several other files and folders that must be in the same directory of 
-the Pong application for the game to run.
+9) Select the folder you'd like to build into. Unity will then make all the necessary files inside this folder along with .EXE executable where you can play Pong.
+   Do not delete any of the other files within the folders.
 
 
-Installing Unity
+# ***Installing Unity***
 
 1. Go to Unity’s Download Page [https://store.unity.com/download-nuo](https://unity.com/download) and click “Download”. 
 A UnityDownloadAssistant-x.x.exe file should be downloaded to your selected destination. 
