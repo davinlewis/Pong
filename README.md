@@ -1,4 +1,5 @@
-Compiling the code
+#Compiling the code
+
 Updating the code will require a new build. If you do not already have unity installed see the 
 instructions below.
 1) Download the .zip file from BBLearn.
